@@ -24,28 +24,28 @@
 
 @keyframes slideBg {
     0% {
-        background-image: url(./img/1.jpg);
+        background-image: url(./1.jpg);
     }
     14% {
-        background-image: url(./img/2.jpg);
+        background-image: url(./2.jpg);
     }
     28% {
-        background-image: url(./img/3.jpg);
+        background-image: url(./3.jpg);
     }
     42% {
-        background-image: url(./img/4.jpg);
+        background-image: url(./4.jpg);
     }
     57% {
-        background-image: url(./img/5.jpg);
+        background-image: url(./5.jpg);
     }
     71% {
-        background-image: url(./img/6.jpg);
+        background-image: url(./6.jpg);
     }
     85% {
-        background-image: url(./img/7.jpg);
+        background-image: url(./7.jpg);
     }
     100% {
-        background-image: url(./img/8.jpg);
+        background-image: url(./8.jpg);
     }
 }
 
